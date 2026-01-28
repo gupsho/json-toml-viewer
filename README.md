@@ -13,3 +13,13 @@ npm i
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
 ```
+
+## Key features
+
+- Parse JSON (JSON5), pretty print, and explore with collapsible objects and arrays.
+
+- Parse TOML and explore with collapsible objects and arrays.
+
+- Parse json strings and explore with collapsible objects and arrays.
+
+- Compare two json or toml objects.
